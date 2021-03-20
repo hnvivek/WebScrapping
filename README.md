@@ -1,1 +1,2 @@
- this is the readme file, I have updated
+This is the Automatic Movie Recommender Python Script.
+
